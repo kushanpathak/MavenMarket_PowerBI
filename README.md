@@ -1,4 +1,6 @@
 Maven Market: Power BI Analysis
+
+
 This project is an in-depth analysis of Maven Market, a fictional grocery store business dataset provided by Maven Analytics. Using Power BI, I explored sales transactions, returns, profits, and revenue trends across the United States, Mexico, and Canada to uncover key business insights and identify opportunities for improvement.
 
 The analysis highlights performance gaps in Canada, steady growth in the United States and Mexico, and provides data-driven recommendations for business strategy.
